@@ -1,0 +1,390 @@
+info  - Loaded env from C:\Projects\Portfolio_Projects\folio_Coastal\Web\20240212_KAW_COASTAL_WEB_on16Test\20240212_KAW_COASTAL_WEB\.env
+> Ready on http://localhost:\\.\pipe\721e3e71-f313-47a6-87fe-fa3db7375365
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/news/[newsId][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/publications/[publicationSlug][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/news[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/news/[newsId][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/new_pages/[addpage][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/projects[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/projects/[projectId][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/publications[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/publications/[publicationSlug][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/publications[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/publications/[publicationSlug][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/projects[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/projects/[projectId][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/new_pages/[addpage][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/new_pages/[addpage][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{
+  data: {
+    data: {
+      id: 466,
+      name: 'gallery',
+      title: 'Gallery',
+      description: null,
+      image: 'https://foliocontent.meta-itech.com/Content/Uploads//coastal//File_37298f9a-97e6-4956-88ce-db3ddd923137638440293218130375.jpeg',
+      content: null,
+      seoTags: [],
+      seoDescription: null,
+      mediaItems: []
+    },
+    isSuccess: true,
+    message: 'pages retrieved successfully',
+    code: 200
+  }
+}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/new_pages/[addpage][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{
+  data: {
+    data: {
+      id: 477,
+      name: 'Donations',
+      title: 'Donations',
+      description: 'Donations',
+      image: 'https://foliocontent.meta-itech.com/Content/Uploads//coastal//File_37298f9a-97e6-4956-88ce-db3ddd923137638440293218130375.jpeg',
+      content: '<p style="text-align:justify;"><span style="color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto, sans-serif;">The IBS Foundation initiates, accompanies and promotes IBS projects for youth, education and the Lausitz. Every donation will be used entirely for the realization of your IBS project. Donate today to give young scientists and networking in the Lausitz a future. Your donation will take effect immediately and you will become part of our community of supporters.</span></p>\n' +
+        '<p style="text-align:justify;"><span style="color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto, sans-serif;">You are welcome to use our fast and direct way of online donation.  </span></p>\n' +
+        '<p style="text-align:justify;"><span style="color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto, sans-serif;">The direct way to become a supporter: </span> <br><br><br><span style="color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto, sans-serif;">With your donation you support our work in the IBS Foundation for</span></p>\n' +
+        '<ul>\n' +
+        '<li style="margin-left:0px;"><span style="color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto, sans-serif;">Youth and offspring</span></li>\n' +
+        '<li style="margin-left:0px;"><span style="color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto, sans-serif;">Networking and exchange</span></li>\n' +
+        '<li style="margin-left:0px;"><span style="color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto, sans-serif;">Future of the Lausitz</span></li>\n' +
+        '</ul>\n' +
+        '<p style="text-align:justify;"><span style="color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto, sans-serif;">Many thanks for your support and donation!</span></p>\n' +
+        '<p style="text-align:left;"><span style="color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto, sans-serif;">Our donation account:</span><br><span style="color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto, sans-serif;">Stiftung IBS | Sparkasse Chemnitz</span><br><span style="color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto, sans-serif;">IBAN: DE34 8705 0000 3510 0114 48 | BIC: CHEKDE81XXX </span> <br><br><br><br><span style="color: rgb(0,128,0);background-color: rgb(255,255,255);font-size: 1.25rem;font-family: Poppins, sans-serif;"><strong>Donation Form</strong></span></p>\n' +
+        '<p style="text-align:left;"><span style="color: rgb(56,56,56);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto, sans-serif;">Our</span> <a href="https://www.ibs-laubusch.de/wp-content/uploads/2020/09/BZE-Spendenformular.pdf" target="_self"><span style="color: rgb(59,79,228);background-color: transparent;font-size: 16px;font-family: Roboto, sans-serif;">donation form</span> </a><span style="color: rgb(56,56,56);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto, sans-serif;">is ready, you can simply download it, fill it in and send it back. You will of course receive a</span> <span style="color: rgb(56,56,56);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto, sans-serif;"><strong>donation certificate.</strong></span></p>\n' +
+        '<p style="text-align:left;"><span style="color: rgb(56,56,56);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto, sans-serif;">The IBS Foundation is due to its support of exclusively and directly tax-privileged (non-profit, scientific) purposes by certification of the tax office in Hoyerswerda a recognized corporation in the sense of § 10 of the Income Tax Act and § 5 para. 1 No. 9 of the Corporate Income Tax Act.</span></p>\n' +
+        '<p style="text-align:left;"><span style="color: rgb(56,56,56);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto, sans-serif;">Vielen Dank für Ihre Unterstützung!</span></p>\n' +
+        '<p style="text-align:left;"><span style="color: rgb(56,56,56);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto, sans-serif;">Haben Sie noch </span><a href="mailto:office@ibs-laubusch.de" target="_self"><span style="color: rgb(59,79,228);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto, sans-serif;">Fragen</span></a><span style="color: rgb(56,56,56);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto, sans-serif;">? Wir antworten gern.</span><br><span style="color: rgb(56,56,56);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto, sans-serif;">Ihr</span><br><span style="color: rgb(56,56,56);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto, sans-serif;">IBS-Team</span> <br><br><br><span style="color: rgb(0,128,0);background-color: rgb(255,255,255);font-size: 1.25rem;font-family: Poppins, sans-serif;"><strong>Community Of Supporters</strong></span></p>\n' +
+        '<p style="text-align:left;"><span style="color: rgb(56,56,56);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto;">On behalf of the volunteer project leaders, the sponsored participants of our IBS projects and the IBS Foundation, we thank our donors !</span></p>\n' +
+        `<p style="text-align:left;"><span style="color: rgb(56,56,56);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto;">IBS Software &amp; Research GmbH</span> <span style="color: rgb(56,56,56);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto;">With a grant of €10,000, IBS Software &amp; Research GmbH will support the IBS Foundation's promotion of young talent and the expansion of the IBS Meeting Center at Lake Erika in July 2019. Many thanks! This generous donation helps us to implement our IBS projects.</span> <br><br><br><span style="color: rgb(56,56,56);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto, sans-serif;">1. Einrichtung </span><a href="https://www.schulengel.de/einrichtungen/details/3861-stiftung-internationales-informatik-und-begegnunszentrum-sachsen" target="_self"><span style="color: rgb(59,79,228);background-color: transparent;font-size: 16px;font-family: Roboto, sans-serif;"><em>Stiftung Internationales Informatik- und Begegnungszentrum</em></span></a><span style="color: rgb(56,56,56);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto, sans-serif;"> auswählen. Damit fördert Ihre Spende die Stiftung IBS.</span><br><br><span style="color: rgb(56,56,56);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto, sans-serif;">2. <em>Online Shop</em> auswählen. Hier bestellen Sie ohne Zusatzkosten Ihre Wunschartikel.</span><br><br><span style="color: rgb(56,56,56);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto, sans-serif;">Weitere Informationen finden Sie im </span><a href="https://www.schulengel.de/cms/entdecken/so-gehts/" target="_self"><span style="color: rgb(59,79,228);background-color: transparent;font-size: 16px;font-family: Roboto, sans-serif;">Schulengel-Portal</span></a><span style="color: rgb(56,56,56);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto, sans-serif;">.</span></p>\n` +
+        '<p style="text-align:left;"><span style="color: rgb(56,56,56);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto, sans-serif;">Online Shoppen und Gutes tun – so macht Einkaufen Freude!</span> <br><br><br><span style="color: rgb(26,26,26);background-color: rgb(255,255,255);font-size: 1.25rem;font-family: Roboto;">Contact</span></p>\n' +
+        '<p style="text-align:left;"><span style="color: rgb(56,56,56);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto;">Wolfram Hardt</span><br><span style="color: rgb(56,56,56);background-color: rgb(255,255,255);font-size: 16px;font-family: Roboto;">T: +49 (0) 1805 93 96 93 F: +49 (0) 1805 93 96 9 E: hardt@ibs-laubusch.de Vorstand</span>&nbsp;</p>\n',
+      seoTags: [],
+      seoDescription: null,
+      mediaItems: []
+    },
+    isSuccess: true,
+    message: 'pages retrieved successfully',
+    code: 200
+  }
+}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{
+  data: {
+    data: {
+      pageDetail: null,
+      webLayout: [Object],
+      sectionsContent: [Object],
+      seo: [Object],
+      headerSection: [Object],
+      devicesCategory: [Array],
+      eventTypes: [Array],
+      currencies: [],
+      defaultCurrency: null
+    },
+    isSuccess: true,
+    message: 'home data retrieved successfully',
+    code: 200
+  }
+}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/publications/[publicationSlug][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{
+  data: {
+    data: { item: [Object], pageDetail: [Object] },
+    isSuccess: true,
+    message: 'publications retrieved successfully',
+    code: 200
+  }
+}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/publications/[publicationSlug][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{
+  data: {
+    data: { item: [Object], pageDetail: [Object] },
+    isSuccess: true,
+    message: 'publications retrieved successfully',
+    code: 200
+  }
+}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/publications/[publicationSlug][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{
+  data: {
+    data: { item: [Object], pageDetail: [Object] },
+    isSuccess: true,
+    message: 'publications retrieved successfully',
+    code: 200
+  }
+}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/publications/[publicationSlug][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{
+  data: {
+    data: { item: [Object], pageDetail: [Object] },
+    isSuccess: true,
+    message: 'publications retrieved successfully',
+    code: 200
+  }
+}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/publications[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/publications/[publicationSlug][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/publications[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/publications/[publicationSlug][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/publications[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/publications/[publicationSlug][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/news[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/news/[newsId][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{
+  data: {
+    data: {
+      pageDetail: null,
+      webLayout: [Object],
+      sectionsContent: [Object],
+      seo: [Object],
+      headerSection: [Object],
+      devicesCategory: [Array],
+      eventTypes: [Array],
+      currencies: [],
+      defaultCurrency: null
+    },
+    isSuccess: true,
+    message: 'home data retrieved successfully',
+    code: 200
+  }
+}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/news/[newsId][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{
+  data: {
+    data: {
+      pageDetail: null,
+      webLayout: [Object],
+      sectionsContent: [Object],
+      seo: [Object],
+      headerSection: [Object],
+      devicesCategory: [Array],
+      eventTypes: [Array],
+      currencies: [],
+      defaultCurrency: null
+    },
+    isSuccess: true,
+    message: 'home data retrieved successfully',
+    code: 200
+  }
+}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/news/[newsId][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{
+  data: {
+    data: { item: [Object], pageDetail: [Object] },
+    isSuccess: true,
+    message: 'news retrieved successfully',
+    code: 200
+  }
+}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{
+  data: {
+    data: {
+      pageDetail: null,
+      webLayout: [Object],
+      sectionsContent: [Object],
+      seo: [Object],
+      headerSection: [Object],
+      devicesCategory: [Array],
+      eventTypes: [Array],
+      currencies: [],
+      defaultCurrency: null
+    },
+    isSuccess: true,
+    message: 'home data retrieved successfully',
+    code: 200
+  }
+}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{
+  data: {
+    data: {
+      pageDetail: null,
+      webLayout: [Object],
+      sectionsContent: [Object],
+      seo: [Object],
+      headerSection: [Object],
+      devicesCategory: [Array],
+      eventTypes: [Array],
+      currencies: [],
+      defaultCurrency: null
+    },
+    isSuccess: true,
+    message: 'home data retrieved successfully',
+    code: 200
+  }
+}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/publications[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/publications/[publicationSlug][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/publications/[publicationSlug][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/publications/[publicationSlug][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/publications/[publicationSlug][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/news[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/news/[newsId][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/news/[newsId][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/news/[newsId][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{
+  data: {
+    data: null,
+    isSuccess: false,
+    message: 'project not found',
+    code: 404
+  }
+}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{
+  data: {
+    data: {
+      pageDetail: null,
+      webLayout: [Object],
+      sectionsContent: [Object],
+      seo: [Object],
+      headerSection: [Object],
+      devicesCategory: [Array],
+      eventTypes: [Array],
+      currencies: [],
+      defaultCurrency: null
+    },
+    isSuccess: true,
+    message: 'home data retrieved successfully',
+    code: 200
+  }
+}

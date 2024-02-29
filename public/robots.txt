@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://foliocoastalweb.meta-itech.com/
+
+# Sitemaps
+Sitemap: https://foliocoastalweb.meta-itech.com/sitemap.xml

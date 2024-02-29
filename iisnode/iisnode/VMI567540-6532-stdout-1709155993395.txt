@@ -1,0 +1,108 @@
+info  - Loaded env from C:\Projects\Portfolio_Projects\folio_Coastal\Web\20240212_KAW_COASTAL_WEB_on16Test\20240212_KAW_COASTAL_WEB\.env
+> Ready on http://localhost:\\.\pipe\e6ef6fe6-e822-4b0e-8eb7-498249ddf2fb
+[36mnext-translate[0m - compiled page: [36m/[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{
+  data: {
+    data: {
+      pageDetail: null,
+      webLayout: [Object],
+      sectionsContent: [Object],
+      seo: [Object],
+      headerSection: [Object],
+      devicesCategory: [Array],
+      eventTypes: [Array],
+      currencies: [],
+      defaultCurrency: null
+    },
+    isSuccess: true,
+    message: 'home data retrieved successfully',
+    code: 200
+  }
+}
+[36mnext-translate[0m - compiled page: [36m/[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{
+  data: {
+    data: {
+      pageDetail: null,
+      webLayout: [Object],
+      sectionsContent: [Object],
+      seo: [Object],
+      headerSection: [Object],
+      devicesCategory: [Array],
+      eventTypes: [Array],
+      currencies: [],
+      defaultCurrency: null
+    },
+    isSuccess: true,
+    message: 'home data retrieved successfully',
+    code: 200
+  }
+}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/publications[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/publications/[publicationSlug][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/publications/[publicationSlug][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/publications/[publicationSlug][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/publications/[publicationSlug][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/news[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/projects/[projectId][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/projects/[projectId][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/new_pages/[addpage][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{
+  data: {
+    data: {
+      pageDetail: null,
+      webLayout: [Object],
+      sectionsContent: [Object],
+      seo: [Object],
+      headerSection: [Object],
+      devicesCategory: [Array],
+      eventTypes: [Array],
+      currencies: [],
+      defaultCurrency: null
+    },
+    isSuccess: true,
+    message: 'home data retrieved successfully',
+    code: 200
+  }
+}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/_error[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+4. WrappedApp created new store with withRedux(MyApp) { initialState: undefined, initialStateFromGSPorGSSR: undefined }
+{}
+[36mnext-translate[0m - compiled page: [36m/projects[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/projects/[projectId][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/projects[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/publications[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/news/[newsId][0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/news[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
+[36mnext-translate[0m - compiled page: [36m/publications[0m - locale: [36men[0m - namespaces: [36mcommon[0m - used loader: [36mgetInitialProps[0m
